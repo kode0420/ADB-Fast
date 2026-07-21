@@ -61,7 +61,7 @@ El script apunta a paquetes específicos. Si una app no existe en tu teléfono, 
 
 ## 🔄 Restauración del Sistema
 
-Nos preocupamos por la seguridad de tus seguidores. Si seleccionas la Opción 7 (Restablecer Ajustes), el script revertirá:
+Si seleccionas la Opción 7 (Restablecer Ajustes), el script revertirá:
 
 - La resolución de la pantalla a su estado de fábrica.
 - Las animaciones y límites de RAM.
